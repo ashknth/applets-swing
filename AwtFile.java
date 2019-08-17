@@ -31,8 +31,6 @@ public class AwtFile {
         frame.add(tf2);
 
 
-
-
         JButton button = new JButton("Click");
         button.setBounds(200, 150, 100, 40);
         frame.add(button);
